@@ -141,3 +141,10 @@ article {
 	}
 } /* @iPhone */
 
+/* Custom
+----------- */
+
+img{
+    margin: 15px;
+    max-width: 360px;
+}
